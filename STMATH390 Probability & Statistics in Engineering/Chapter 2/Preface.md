@@ -1,0 +1,3 @@
+- The probability will always be between 0 and 1.
+- We look through the visual cues
+- 
