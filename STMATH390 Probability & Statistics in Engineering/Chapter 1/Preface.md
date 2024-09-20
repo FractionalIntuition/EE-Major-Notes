@@ -1,1 +1,0 @@
-We cover the terminology & concepts
